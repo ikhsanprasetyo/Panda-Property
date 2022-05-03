@@ -28,8 +28,9 @@ namespace mainGUI {
 		const int iHargaPerumahanATipe150 = 150000000;
 		const int iHargaPerumahanATipe250 = 250000000;
 		const int iHargaPerumahanATipe300 = 300000000;
+		const int iHargaPerumahanATipe500 = 500000000;
 	public: System::Windows::Forms::ListBox^ listBox_potensiProduk;
-		  const int iHargaPerumahanATipe500 = 500000000;
+		  
 		
 
 		  
